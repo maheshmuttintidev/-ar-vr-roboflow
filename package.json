@@ -1,6 +1,6 @@
 {
   "name": "ar-vr-roboflow-react",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "React Compatible RoboFlow Package (Originally from roboflow package)",
   "main": "dist/index.js",
   "type": "module",
